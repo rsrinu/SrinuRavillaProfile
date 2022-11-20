@@ -1,0 +1,46 @@
+#boxes {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+div {
+    float: left;
+    height: 369px;
+    width: 23%;
+    padding: 0 10px;
+}
+div {
+    float: left;
+    height: 369px;
+    width: 23%;
+    padding: 0 10px;
+}
+
+#column1 {
+    text-align: left;
+
+}
+
+#column2 {
+    text-align: left;
+}
+h2{
+    color: rgba(154, 8, 8, 0.905);
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+th{
+    color: rgba(154, 8, 8, 0.905);
+}
+
+.responsive {
+    width: 100%;
+    max-height: 359px;
+    max-width: 400px;
+    height: auto;
+}
